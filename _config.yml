@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chengyu Liu/Homepage"
+title                    : "Chengyu's Homepage"
 title_separator          : "-"
 name                     : &name "Chengyu Liu"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Chengyu Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Hong Kong"
+  bio              : "What I cannot create, I do not understand"
+  location         : # "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : # URL
   email            : "cliu687-c@my.cityu.edu.hk" 
